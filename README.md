@@ -3,9 +3,22 @@ Building advanced or intermediate apps sometimes requires accessing what is cons
 
 ![alt text](https://github.com/MMolieleng/iOS-Permissions/blob/master/info_image.png)
 
-## NSCameraUsageDescription
+### NSCameraUsageDescription
 
 ```xml
 <key>NSCameraUsageDescription</key>
 <string>$(PRODUCT_NAME) camera use.</string>
 ```
+
+### NSContactsUsageDescription
+```xml
+	<key>NSContactsUsageDescription</key>
+    <string>$(PRODUCT_NAME) contacts use.</string>
+```
+
+### NSPhotoLibraryUsageDescription
+```xml
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>$(PRODUCT_NAME) photos and video use.</string>
+```
+
