@@ -12,13 +12,79 @@ Building advanced or intermediate apps sometimes requires accessing what is cons
 
 ### NSContactsUsageDescription
 ```xml
-	<key>NSContactsUsageDescription</key>
-    <string>$(PRODUCT_NAME) contacts use.</string>
+<key>NSContactsUsageDescription</key>
+<string>$(PRODUCT_NAME) contacts use.</string>
 ```
 
 ### NSPhotoLibraryUsageDescription
 ```xml
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>$(PRODUCT_NAME) photos and video use.</string>
+```
+
+### NSBluetoothPeripheralUsageDescription
+```xml
+<key>NSBluetoothPeripheralUsageDescription</key>
+<string>$(PRODUCT_NAME) bluetooth use.</string>
+```
+
+### NSMicrophoneUsageDescription
+```xml
+<key>NSMicrophoneUsageDescription</key>
+<string>$(PRODUCT_NAME) microphone use.</string>
+```
+
+### NSMotionUsageDescription
+```xml
+<key>NSMotionUsageDescription</key>
+<string>$(PRODUCT_NAME) motion use.</string>
+```
+
+### NSLocationAlwaysUsageDescription
+```xml
+<key>NSLocationAlwaysUsageDescription</key>
+<string>$(PRODUCT_NAME) location use.</string>
+```
+
+### NSLocationUsageDescription
+```xml
+<key>NSLocationUsageDescription</key>
+<string>$(PRODUCT_NAME) location use.</string>
+```
+
+### NSLocationWhenInUseUsageDescription
+```xml
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>$(PRODUCT_NAME) location use.</string>
+```
+
+### NSRemindersUsageDescription
+```xml
+<key>NSRemindersUsageDescription</key>
+<string>$(PRODUCT_NAME) reminders use.</string>
+```
+
+### NSSiriUsageDescription
+```xml
+<key>NSSiriUsageDescription</key>
+<string>$(PRODUCT_NAME) siri use.</string>
+```
+
+### NSVideoSubscriberAccountUsageDescription
+```xml
+<key>NSVideoSubscriberAccountUsageDescription</key>
+<string>$(PRODUCT_NAME) video use.</string>
+```
+
+### NSSpeechRecognitionUsageDescription
+```xml
+<key>NSSpeechRecognitionUsageDescription</key>
+<string>$(PRODUCT_NAME) speech recognition use.</string>
+```
+
+### NSCalendarsUsageDescription
+```xml
+<key>NSCalendarsUsageDescription</key>
+<string>$(PRODUCT_NAME) user your calendar.</string>
 ```
 
