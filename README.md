@@ -5,7 +5,7 @@ Building advanced or intermediate apps sometimes requires accessing what is cons
 
 ## NSCameraUsageDescription
 
-```
+```xml
 <key>NSCameraUsageDescription</key>
 <string>$(PRODUCT_NAME) camera use.</string>
 ```
