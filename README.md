@@ -4,7 +4,9 @@ Building advanced or intermediate apps sometimes requires accessing what is cons
 ## Add permissions to ``info.list`` file XCode 8.x
 ![alt text](https://github.com/MMolieleng/iOS-Permissions/blob/master/info_image.png)
 
-### NSCameraUsageDescription
+### v1.3.0
+
+## NSCameraUsageDescription
 
 ```xml
 <key>NSCameraUsageDescription</key>
